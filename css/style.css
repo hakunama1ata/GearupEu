@@ -201,6 +201,14 @@ p {
     font-size: 22px;
     
 }
+.performer-caption p {
+    color: #fff;
+    font-size: 26px;
+    line-height: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    padding-bottom: 40px;
+    
+}
 /*.performer {
     background-image: url(../images/testimonial-bg.jpg);
     background-attachment: fixed;
