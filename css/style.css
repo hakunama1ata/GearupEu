@@ -201,7 +201,7 @@ p {
     font-size: 22px;
     
 }
-.performer {
+/*.performer {
     background-image: url(../images/testimonial-bg.jpg);
     background-attachment: fixed;
     background-size: cover;
@@ -250,7 +250,7 @@ p {
 }
 /*SECTION-TIMELINE*/
 
-.section-timeline {
+/*.section-timeline {
     background-color: white;
     padding-top: 5rem;
 }
@@ -331,7 +331,7 @@ p {
     font-size: 20px;
     font-weight: 700;
     font-family: 'Playfair Display', serif;
-}
+}*/
 .under-heading {
     font-weight: 700;
     text-align: center;
